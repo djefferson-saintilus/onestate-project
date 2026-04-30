@@ -9,12 +9,12 @@ Got it. Clean format, no Discord styling, same structure, no repetition:
 Staying at HP → RP11 | 30–60 min jail
 Gun in GZ → RP11 | 30–60 min jail
 
-Shooting a player in GZ → RP1, RP4, RP6, RP11 | 95 min jail
-Shooting a car in GZ → RP2, RP4, RP6, RP11 | 95 min jail
-Shooting player & car in GZ → RP1, RP2, RP4, RP6, RP11 | 115 min jail
+Shooting a player in GZ → RP1/4/6/11 | 95 min jail
+Shooting a car in GZ → RP2/4/6/11 | 95 min jail
+Shooting player & car in GZ → RP1/2/4/6/11 | 115 min jail
 
-Hitting a player in GZ → RP9, RP11 | 90 min jail
-Punching a player in GZ (no consent) → RP4, RP6 | 45 min jail
+Hitting a player in GZ → RP9/P11 | 90 min jail
+Punching a player in GZ (no consent) → RP4/6 | 45 min jail
 
 Mass VDM in GZ → RP9.1 | 720 min ban
 
@@ -25,9 +25,9 @@ Mass VDM in GZ → RP9.1 | 720 min ban
 VDM outside GZ → RP9 | 60 min jail
 Mass VDM → RP9.1 | 720 min ban
 
-Shooting a player without interaction → RP1, RP4, RP6 | 65 min jail
-Shooting a car without interaction → RP2, RP4, RP6 | 65 min jail
-Shooting player & car / tasing out of a car without RP → RP1, RP2, RP4, RP6 | 85 min jail
+Shooting a player without interaction → RP1/4/6 | 65 min jail
+Shooting a car without interaction → RP2/4/6 | 65 min jail
+Shooting player & car / tasing out of a car without RP → RP1/2/4/6 | 85 min jail
 
 ---
 
@@ -41,7 +41,7 @@ Using a gang taser multiple times without RP reason → CLAN5 | 30 min jail
 **Other Common Violations**
 
 Driving on army base → RP4, RP6, RP15 | 75 min jail
-Intentional car ramming → RP2, RP4, RP6 | 65 min jail
+Intentional car ramming → RP2/4/6 | 65 min jail
 
 Meta Gaming → RP5 | 30 min mute or 30 min jail
 Repeat Kill → RP10 | 90 min jail
