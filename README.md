@@ -44,7 +44,7 @@ Using a gang taser multiple times without RP reason → CLAN5 | 30 min jail
 
 **Other Common Violations**
 
-Driving on army base → RP4, RP6, RP15 | 75 min jail
+Driving on army base → RP4/6/15 | 75 min jail
 
 Intentional car ramming → RP2/4/6 | 65 min jail
 
